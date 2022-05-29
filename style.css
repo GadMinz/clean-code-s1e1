@@ -29,7 +29,9 @@ body {
     width: 500px;
     margin: 0 auto 0;
 }
-.new-task-input,.item-label,.item-input {
+.new-task-input,
+.item-label,
+.item-input {
     width: 56%;
     display: inline-block;
     flex-grow: 1;
@@ -44,7 +46,8 @@ body {
 .list-item {
     list-style: none;
 }
-.input,.btn{
+.input,
+.btn{
     outline: none;
 }
 .btn {
